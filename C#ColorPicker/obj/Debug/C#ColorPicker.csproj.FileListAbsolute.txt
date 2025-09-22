@@ -1,0 +1,10 @@
+C:\Users\Pichau\source\repos\C#ColorPicker\bin\Debug\C#ColorPicker.exe.config
+C:\Users\Pichau\source\repos\C#ColorPicker\bin\Debug\C#ColorPicker.exe
+C:\Users\Pichau\source\repos\C#ColorPicker\bin\Debug\C#ColorPicker.pdb
+C:\Users\Pichau\source\repos\C#ColorPicker\obj\Debug\C#ColorPicker.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\C#ColorPicker\obj\Debug\C_ColorPicker.Form1.resources
+C:\Users\Pichau\source\repos\C#ColorPicker\obj\Debug\C_ColorPicker.Properties.Resources.resources
+C:\Users\Pichau\source\repos\C#ColorPicker\obj\Debug\C#ColorPicker.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\C#ColorPicker\obj\Debug\C#ColorPicker.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\C#ColorPicker\obj\Debug\C#ColorPicker.exe
+C:\Users\Pichau\source\repos\C#ColorPicker\obj\Debug\C#ColorPicker.pdb
